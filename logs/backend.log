@@ -1,0 +1,67 @@
+2025-08-05 21:34:23,876 INFO Parsed content of : dummySRS.docx
+2025-08-06 08:49:09,991 INFO Parsed content of : myFile (1).pdf
+2025-08-06 10:12:21,309 INFO saved : dummySRS.docx to temporary directory
+2025-08-06 10:12:21,309 INFO Parsing ontent of : dummySRS.docx
+2025-08-06 10:12:21,341 INFO Parsed sucessfull of : dummySRS.docx
+2025-08-06 10:12:21,341 INFO generating SRDs for: dummySRS.docx
+2025-08-06 10:12:52,044 INFO saved : dummySRS.docx to temporary directory
+2025-08-06 10:12:52,044 INFO Parsing ontent of : dummySRS.docx
+2025-08-06 10:12:52,077 INFO Parsed sucessfull of : dummySRS.docx
+2025-08-06 10:12:52,077 INFO generating SRDs for: dummySRS.docx
+2025-08-06 10:12:53,478 INFO saved : dummySRS.docx to temporary directory
+2025-08-06 10:12:53,478 INFO Parsing ontent of : dummySRS.docx
+2025-08-06 10:12:53,494 INFO Parsed sucessfull of : dummySRS.docx
+2025-08-06 10:12:53,494 INFO generating SRDs for: dummySRS.docx
+2025-08-06 10:12:54,380 INFO saved : dummySRS.docx to temporary directory
+2025-08-06 10:12:54,380 INFO Parsing ontent of : dummySRS.docx
+2025-08-06 10:12:54,401 INFO Parsed sucessfull of : dummySRS.docx
+2025-08-06 10:12:54,404 INFO generating SRDs for: dummySRS.docx
+2025-08-06 10:14:32,036 INFO saved : dummySRS.docx to temporary directory
+2025-08-06 10:14:32,036 INFO Parsing ontent of : dummySRS.docx
+2025-08-06 10:14:32,053 INFO Parsed sucessfull of : dummySRS.docx
+2025-08-06 10:14:32,066 INFO generating SRDs for: dummySRS.docx
+2025-08-06 10:15:08,549 INFO SRD created for : dummySRS.docx
+2025-08-06 10:26:00,246 INFO saved : dummySRS.docx to temporary directory
+2025-08-06 10:26:00,247 INFO Parsing ontent of : dummySRS.docx
+2025-08-06 10:26:00,306 INFO Parsed sucessfull of : dummySRS.docx
+2025-08-06 10:26:00,309 INFO generating SRDs for: dummySRS.docx
+2025-08-06 10:26:36,354 INFO SRD created for : dummySRS.docx
+2025-08-06 10:42:11,760 INFO saved : dummySRS.docx to temporary directory
+2025-08-06 10:42:11,760 INFO Parsing ontent of : dummySRS.docx
+2025-08-06 10:42:11,843 INFO Parsed sucessfull of : dummySRS.docx
+2025-08-06 10:42:11,843 INFO generating SRDs for: dummySRS.docx
+2025-08-06 10:43:47,334 INFO saved : dummySRS.docx to temporary directory
+2025-08-06 10:43:47,334 INFO Parsing ontent of : dummySRS.docx
+2025-08-06 10:43:47,360 INFO Parsed sucessfull of : dummySRS.docx
+2025-08-06 10:43:47,361 INFO generating SRDs for: dummySRS.docx
+2025-08-06 10:44:22,717 INFO SRD created for : dummySRS.docx
+2025-08-06 10:45:06,563 INFO saved : dummySRS.docx to temporary directory
+2025-08-06 10:45:06,563 INFO Parsing ontent of : dummySRS.docx
+2025-08-06 10:45:06,596 INFO Parsed sucessfull of : dummySRS.docx
+2025-08-06 10:45:06,596 INFO generating SRDs for: dummySRS.docx
+2025-08-06 10:45:49,626 INFO SRD created for : dummySRS.docx
+2025-08-06 10:45:55,327 INFO saved : dummySRS.docx to temporary directory
+2025-08-06 10:45:55,327 INFO Parsing content of : dummySRS.docx
+2025-08-06 10:45:55,362 INFO Parsed successfully : dummySRS.docx
+2025-08-06 10:45:55,362 INFO generating SRDs for: dummySRS.docx
+2025-08-06 10:46:29,396 INFO SRD created for : dummySRS.docx
+2025-08-06 10:49:11,483 INFO saved : dummySRS.docx to temporary directory
+2025-08-06 10:49:11,483 INFO Parsing ontent of : dummySRS.docx
+2025-08-06 10:49:11,517 INFO Parsed sucessfull of : dummySRS.docx
+2025-08-06 10:49:11,518 INFO generating SRDs for: dummySRS.docx
+2025-08-06 10:49:57,864 INFO SRD created for : dummySRS.docx
+2025-08-06 10:51:32,566 INFO saved : dummySRS.docx to temporary directory
+2025-08-06 10:51:32,566 INFO Parsing content of : dummySRS.docx
+2025-08-06 10:51:32,604 INFO Parsed successfully : dummySRS.docx
+2025-08-06 10:51:32,605 INFO generating SRDs for: dummySRS.docx
+2025-08-06 10:52:13,008 INFO SRD created for : dummySRS.docx
+2025-08-06 10:53:11,220 INFO saved : dummySRS.docx to temporary directory
+2025-08-06 10:53:11,221 INFO Parsing content of : dummySRS.docx
+2025-08-06 10:53:11,247 INFO Parsed successfully : dummySRS.docx
+2025-08-06 10:53:11,247 INFO generating SRDs for: dummySRS.docx
+2025-08-06 10:53:44,400 INFO SRD created for : dummySRS.docx
+2025-08-06 15:18:01,848 INFO saved : dummySRS.docx to temporary directory
+2025-08-06 15:18:01,848 INFO Parsing content of : dummySRS.docx
+2025-08-06 15:18:01,890 INFO Parsed successfully : dummySRS.docx
+2025-08-06 15:18:01,891 INFO generating SRDs for: dummySRS.docx
+2025-08-06 15:18:37,161 INFO SRD created for : dummySRS.docx
